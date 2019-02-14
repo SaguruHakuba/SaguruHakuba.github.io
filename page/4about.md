@@ -30,7 +30,7 @@ type: page
 
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/SaguruHakuba/SaguruHakuba.github.io/issues)。
 
 ### Update Log
 
